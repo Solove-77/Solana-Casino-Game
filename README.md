@@ -35,3 +35,11 @@ This project is intended as a proof of concept. Before deploying to mainnet:
 
 - Add anti-bot and rate limiting protections
 
+## Contact Info
+
+<div style={{display : flex ; justify-content : space-evenly}}> 
+    <a href="https://t.me/Solove_77" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://discordapp.com/users/1206247171335131219" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</div>
